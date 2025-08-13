@@ -20,9 +20,9 @@
 </div>
 
 # Hard Skills:
-<div style="display: inline_block"><br> ✨ Linguagens e tecnologias que fazem parte da minha caminhada de aprendizado e criação de projetos. <h2>── Linguagens</h2>
+<div style="display: inline_block"> ✨ Linguagens e tecnologias que fazem parte da minha caminhada de aprendizado e criação de projetos. <h2> Linguagens</h2>
   <img src="https://skillicons.dev/icons?i=py&theme=light" />
-  <h2>Data Base</h2>
+  <h2>DataBase</h2>
   <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
 
 # Entre em contato comigo :) 
