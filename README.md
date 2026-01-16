@@ -14,11 +14,6 @@
 
 💖 Sou determinada e curiosa, sempre buscando aprender e crescer. Fora do trabalho, valorizo momentos com quem amo, adoro ir ao cinema, assistir filmes, maratonar séries e escutar música.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasminkanoshiki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasminkanoshiki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 # Hard Skills:
 <div style="display: inline_block"> ✨ Linguagens e tecnologias que fazem parte da minha caminhada de aprendizado e criação de projetos. <h2> Linguagens</h2>
   <img src="https://skillicons.dev/icons?i=py&theme=light" />
