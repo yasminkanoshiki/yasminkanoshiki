@@ -8,7 +8,7 @@
 
 💻 Atualmente, estou estudando e me aprofundando em SQL, Python e BI, além de me aprofundar em conceitos de ETL e criação de dashboards interativos. 
 
-🎯 Meu objetivo é iniciar minha carreira como Analista de Dados Júnior
+🎯 Meu objetivo é iniciar minha carreira na área de Dados 
 
 📚 Estou sempre desenvolvendo novas habilidades com cursos e projetos para o meu portfólio. Aprendo rápido e estou sempre em busca de aprimorar meus conhecimentos.
 
