@@ -8,7 +8,7 @@
 
 💻 Sou estudante de CST em Ciência de Dados na UNINTER e estou me aprofundando em SQL, Python, Power BI e conceitos de ETL, análise de dados, ciência de dados e criação de dashboards interativos 
 
-🎯 Meu objetivo é iniciar minha carreira na área de Dados 
+🎯 Meu objetivo é desenvolver minha carreira na área de Dados 
 
 📚 Estou sempre buscando aprimorar minhas habilidades técnicas por meio de cursos, estudos e e projetos acadêmicos.
 
